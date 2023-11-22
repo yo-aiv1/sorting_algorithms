@@ -3,7 +3,8 @@
 #include <stdio.h>
 
 /**
- * swping_next-func that swap tow item of linked list 
+ * swping_next-func that swap tow item of linked list
+ * @lst: list
  * @lst1: item1
  * @lst2: item2
  */
